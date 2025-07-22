@@ -75,6 +75,8 @@ Passagem de dados entre Activitys usando putExtra() e getStringExtra()
 # 👩‍💻 Autor
 Desenvolvido por Maria Clara Ferreira Lopes.
 
+- Estudante em Técnico em Informática - COTEMIG
+
 📧 Contato: [mariaclaraferreiralopes82@gmail.com]
 
 🔗 LinkedIn: [(https://www.linkedin.com/in/maria-clara-ferreira-lopes/)]
